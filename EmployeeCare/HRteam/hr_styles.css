@@ -1,0 +1,37 @@
+/* Add these styles to your hr_styles.css file or include it in your HTML */
+
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.content {
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+button {
+    width: 150px; /* Adjust the width as needed */
+    height: 40px;
+    background-color: #4CAF50;
+    color: rgba(255, 255, 255, 0.018);
+    padding: 15px 30px; /* Adjust the padding to make the button bigger */
+    font-size: 18px; /* Adjust the font size */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
